@@ -1,0 +1,525 @@
+[
+  {
+    "title": "Tomato Basil Pasta",
+    "description": "Weeknight pasta that leans on canned tomatoes and a bunch of basil.",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "servings": 2,
+    "diet_tags": ["vegetarian"],
+    "ingredients": [
+      {"name": "spaghetti", "quantity": 200, "unit": "g"},
+      {"name": "canned tomatoes", "quantity": 400, "unit": "g"},
+      {"name": "garlic", "quantity": 3, "unit": "clove"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "olive oil", "quantity": 2, "unit": "tbsp"},
+      {"name": "basil", "quantity": 1, "unit": "bunch"},
+      {"name": "parmesan", "quantity": 30, "unit": "g", "optional": true}
+    ],
+    "instructions": [
+      "Boil the spaghetti in salted water until al dente.",
+      "Warm the olive oil and soften the onion and garlic.",
+      "Add the tomatoes and simmer for about 8 minutes.",
+      "Toss with the pasta and tear in the basil. Add parmesan if you have it."
+    ]
+  },
+  {
+    "title": "Chickpea Coconut Curry",
+    "description": "A one-pot curry with chickpeas, coconut milk, and spinach over rice.",
+    "prep_minutes": 10,
+    "cook_minutes": 25,
+    "servings": 3,
+    "diet_tags": ["vegan", "vegetarian", "gluten-free", "dairy-free"],
+    "ingredients": [
+      {"name": "chickpeas", "quantity": 400, "unit": "g"},
+      {"name": "coconut milk", "quantity": 400, "unit": "ml"},
+      {"name": "spinach", "quantity": 80, "unit": "g"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 3, "unit": "clove"},
+      {"name": "ginger", "quantity": 15, "unit": "g"},
+      {"name": "cumin", "quantity": 1, "unit": "tsp"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"},
+      {"name": "rice", "quantity": 200, "unit": "g"},
+      {"name": "lemon", "quantity": 0.5, "unit": "piece"}
+    ],
+    "instructions": [
+      "Rinse the rice and start it cooking.",
+      "Soften the onion, garlic, and ginger in olive oil. Stir in the cumin.",
+      "Add the chickpeas and coconut milk and simmer for 15 minutes.",
+      "Fold in the spinach, finish with lemon, and serve over rice."
+    ]
+  },
+  {
+    "title": "Garlic Butter Shrimp",
+    "description": "Fast shrimp in butter, garlic, and lemon.",
+    "prep_minutes": 5,
+    "cook_minutes": 12,
+    "servings": 2,
+    "diet_tags": ["pescatarian", "gluten-free"],
+    "ingredients": [
+      {"name": "shrimp", "quantity": 300, "unit": "g"},
+      {"name": "butter", "quantity": 30, "unit": "g"},
+      {"name": "garlic", "quantity": 4, "unit": "clove"},
+      {"name": "lemon", "quantity": 1, "unit": "piece"},
+      {"name": "parsley", "quantity": 1, "unit": "bunch", "optional": true}
+    ],
+    "instructions": [
+      "Pat the shrimp dry.",
+      "Melt the butter and cook the garlic for 30 seconds.",
+      "Add the shrimp and cook until just pink, about 2 minutes per side.",
+      "Finish with lemon. Scatter parsley if you have it."
+    ]
+  },
+  {
+    "title": "Vegetable Fried Rice",
+    "description": "Eggs, rice, and whatever vegetables are still good.",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "servings": 2,
+    "diet_tags": ["vegetarian", "dairy-free"],
+    "ingredients": [
+      {"name": "rice", "quantity": 250, "unit": "g"},
+      {"name": "eggs", "quantity": 2, "unit": "piece"},
+      {"name": "carrot", "quantity": 1, "unit": "piece"},
+      {"name": "bell pepper", "quantity": 1, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "soy sauce", "quantity": 2, "unit": "tbsp"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Cook the rice if it is not already cooked, then let it cool a little.",
+      "Scramble the eggs in oil and set them aside.",
+      "Cook the onion, carrot, pepper, and garlic until just tender.",
+      "Return the rice and eggs, add soy sauce, and toss until hot."
+    ]
+  },
+  {
+    "title": "Chicken Soy Stir-Fry",
+    "description": "Chicken and peppers in a quick soy and ginger sauce.",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "servings": 2,
+    "diet_tags": ["dairy-free"],
+    "ingredients": [
+      {"name": "chicken breast", "quantity": 350, "unit": "g"},
+      {"name": "soy sauce", "quantity": 3, "unit": "tbsp"},
+      {"name": "garlic", "quantity": 3, "unit": "clove"},
+      {"name": "ginger", "quantity": 15, "unit": "g"},
+      {"name": "bell pepper", "quantity": 1, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "rice", "quantity": 200, "unit": "g"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Start the rice.",
+      "Slice the chicken and vegetables.",
+      "Sear the chicken in oil, then add onion, pepper, garlic, and ginger.",
+      "Pour in the soy sauce and cook until the chicken is done. Serve over rice."
+    ]
+  },
+  {
+    "title": "Red Lentil Soup",
+    "description": "A thick soup of lentils, carrot, and tomato.",
+    "prep_minutes": 10,
+    "cook_minutes": 30,
+    "servings": 4,
+    "diet_tags": ["vegan", "vegetarian", "gluten-free", "dairy-free"],
+    "ingredients": [
+      {"name": "red lentils", "quantity": 200, "unit": "g"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "carrot", "quantity": 2, "unit": "piece"},
+      {"name": "garlic", "quantity": 3, "unit": "clove"},
+      {"name": "canned tomatoes", "quantity": 200, "unit": "g"},
+      {"name": "cumin", "quantity": 1, "unit": "tsp"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"},
+      {"name": "lemon", "quantity": 0.5, "unit": "piece"}
+    ],
+    "instructions": [
+      "Soften the onion, carrot, and garlic in olive oil.",
+      "Stir in the cumin, lentils, tomatoes, and 800 ml water.",
+      "Simmer for about 25 minutes until the lentils fall apart.",
+      "Season and finish with lemon."
+    ]
+  },
+  {
+    "title": "Mushroom Risotto",
+    "description": "Stirred rice with mushrooms, butter, and parmesan.",
+    "prep_minutes": 10,
+    "cook_minutes": 35,
+    "servings": 2,
+    "diet_tags": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      {"name": "arborio rice", "quantity": 200, "unit": "g"},
+      {"name": "mushrooms", "quantity": 250, "unit": "g"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "butter", "quantity": 30, "unit": "g"},
+      {"name": "parmesan", "quantity": 40, "unit": "g"},
+      {"name": "vegetable stock", "quantity": 700, "unit": "ml"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Warm the stock in a saucepan.",
+      "Brown the mushrooms in olive oil and set them aside.",
+      "Cook the onion and garlic in butter, add the rice, and stir for a minute.",
+      "Add stock a ladle at a time until the rice is tender. Fold in mushrooms and parmesan."
+    ]
+  },
+  {
+    "title": "Black Bean Tacos",
+    "description": "Warm tortillas with cumin black beans and onion.",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "servings": 3,
+    "diet_tags": ["vegan", "vegetarian", "dairy-free"],
+    "ingredients": [
+      {"name": "black beans", "quantity": 400, "unit": "g"},
+      {"name": "tortillas", "quantity": 6, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "cumin", "quantity": 1, "unit": "tsp"},
+      {"name": "lemon", "quantity": 1, "unit": "piece"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Cook the onion and garlic in olive oil until soft.",
+      "Add the beans and cumin and warm through, mashing a few beans.",
+      "Heat the tortillas in a dry pan.",
+      "Fill the tortillas and finish with lemon."
+    ]
+  },
+  {
+    "title": "Sheet-Pan Lemon Salmon",
+    "description": "Salmon, broccoli, and lemon on one tray.",
+    "prep_minutes": 10,
+    "cook_minutes": 18,
+    "servings": 2,
+    "diet_tags": ["pescatarian", "gluten-free", "dairy-free"],
+    "ingredients": [
+      {"name": "salmon", "quantity": 400, "unit": "g"},
+      {"name": "broccoli", "quantity": 300, "unit": "g"},
+      {"name": "lemon", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Heat the oven to 220°C.",
+      "Toss the broccoli with oil and garlic on a tray.",
+      "Nestle in the salmon and lay over lemon slices.",
+      "Roast for 15 to 18 minutes, until the salmon flakes."
+    ]
+  },
+  {
+    "title": "Skillet Shakshuka",
+    "description": "Eggs poached in a pepper and tomato skillet.",
+    "prep_minutes": 10,
+    "cook_minutes": 20,
+    "servings": 2,
+    "diet_tags": ["vegetarian", "gluten-free", "dairy-free"],
+    "ingredients": [
+      {"name": "eggs", "quantity": 4, "unit": "piece"},
+      {"name": "canned tomatoes", "quantity": 400, "unit": "g"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 3, "unit": "clove"},
+      {"name": "bell pepper", "quantity": 1, "unit": "piece"},
+      {"name": "cumin", "quantity": 1, "unit": "tsp"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"},
+      {"name": "bread", "quantity": 2, "unit": "slice", "optional": true}
+    ],
+    "instructions": [
+      "Soften the onion, pepper, and garlic in olive oil.",
+      "Add cumin and tomatoes and simmer for 10 minutes.",
+      "Make wells and crack in the eggs. Cover until the whites set.",
+      "Serve from the skillet. Toast bread if you want something to scoop with."
+    ]
+  },
+  {
+    "title": "Caprese Toast",
+    "description": "Bread, tomato, mozzarella, and basil. Almost no cooking.",
+    "prep_minutes": 10,
+    "cook_minutes": 5,
+    "servings": 2,
+    "diet_tags": ["vegetarian"],
+    "ingredients": [
+      {"name": "bread", "quantity": 4, "unit": "slice"},
+      {"name": "tomato", "quantity": 2, "unit": "piece"},
+      {"name": "mozzarella", "quantity": 125, "unit": "g"},
+      {"name": "basil", "quantity": 0.5, "unit": "bunch"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Toast the bread.",
+      "Slice the tomato and mozzarella.",
+      "Layer them on the toast with basil.",
+      "Drizzle with olive oil."
+    ]
+  },
+  {
+    "title": "Weeknight Beef Chili",
+    "description": "Ground beef, black beans, and tomato, simmered until thick.",
+    "prep_minutes": 15,
+    "cook_minutes": 40,
+    "servings": 4,
+    "diet_tags": ["gluten-free", "dairy-free"],
+    "ingredients": [
+      {"name": "ground beef", "quantity": 400, "unit": "g"},
+      {"name": "black beans", "quantity": 200, "unit": "g"},
+      {"name": "canned tomatoes", "quantity": 400, "unit": "g"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 3, "unit": "clove"},
+      {"name": "chili powder", "quantity": 1, "unit": "tbsp"},
+      {"name": "cumin", "quantity": 1, "unit": "tsp"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Brown the beef with onion in a little oil.",
+      "Add garlic, chili powder, and cumin.",
+      "Stir in tomatoes and black beans.",
+      "Simmer for about 30 minutes until thick."
+    ]
+  },
+  {
+    "title": "Tofu Broccoli Stir-Fry",
+    "description": "Crisped tofu with broccoli, ginger, and rice.",
+    "prep_minutes": 15,
+    "cook_minutes": 15,
+    "servings": 2,
+    "diet_tags": ["vegan", "vegetarian", "dairy-free"],
+    "ingredients": [
+      {"name": "tofu", "quantity": 300, "unit": "g"},
+      {"name": "broccoli", "quantity": 200, "unit": "g"},
+      {"name": "carrot", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "ginger", "quantity": 10, "unit": "g"},
+      {"name": "soy sauce", "quantity": 2, "unit": "tbsp"},
+      {"name": "rice", "quantity": 200, "unit": "g"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Cook the rice. Press and cube the tofu.",
+      "Brown the tofu in oil and set it aside.",
+      "Stir-fry broccoli, carrot, garlic, and ginger.",
+      "Return the tofu, add soy sauce, and serve over rice."
+    ]
+  },
+  {
+    "title": "Banana Oat Pancakes",
+    "description": "A small batch of pancakes from banana, oats, and eggs.",
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "servings": 2,
+    "diet_tags": ["vegetarian"],
+    "ingredients": [
+      {"name": "banana", "quantity": 2, "unit": "piece"},
+      {"name": "oats", "quantity": 120, "unit": "g"},
+      {"name": "eggs", "quantity": 2, "unit": "piece"},
+      {"name": "milk", "quantity": 80, "unit": "ml"},
+      {"name": "butter", "quantity": 15, "unit": "g"}
+    ],
+    "instructions": [
+      "Mash the banana and stir in oats, eggs, and milk. Rest for 5 minutes.",
+      "Heat a little butter in a pan.",
+      "Cook small pancakes until bubbles set, then flip.",
+      "Serve as soon as the centers are cooked through."
+    ]
+  },
+  {
+    "title": "Peanut Butter Noodles",
+    "description": "Cold or warm noodles with a peanut and soy sauce.",
+    "prep_minutes": 10,
+    "cook_minutes": 10,
+    "servings": 2,
+    "diet_tags": ["vegan", "vegetarian", "dairy-free"],
+    "ingredients": [
+      {"name": "noodles", "quantity": 200, "unit": "g"},
+      {"name": "peanut butter", "quantity": 3, "unit": "tbsp"},
+      {"name": "soy sauce", "quantity": 2, "unit": "tbsp"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "lemon", "quantity": 1, "unit": "piece"},
+      {"name": "cucumber", "quantity": 1, "unit": "piece", "optional": true}
+    ],
+    "instructions": [
+      "Boil the noodles and drain them.",
+      "Stir peanut butter, soy sauce, garlic, and lemon juice with a splash of hot water.",
+      "Toss the noodles in the sauce.",
+      "Add sliced cucumber if you have it."
+    ]
+  },
+  {
+    "title": "Roasted Chickpea Bowl",
+    "description": "Sweet potato, chickpeas, and spinach with lemon.",
+    "prep_minutes": 15,
+    "cook_minutes": 30,
+    "servings": 2,
+    "diet_tags": ["vegan", "vegetarian", "gluten-free", "dairy-free"],
+    "ingredients": [
+      {"name": "sweet potato", "quantity": 2, "unit": "piece"},
+      {"name": "chickpeas", "quantity": 200, "unit": "g"},
+      {"name": "spinach", "quantity": 80, "unit": "g"},
+      {"name": "lemon", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "cumin", "quantity": 1, "unit": "tsp"},
+      {"name": "olive oil", "quantity": 2, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Heat the oven to 210°C.",
+      "Cube the sweet potato and toss with chickpeas, oil, garlic, and cumin.",
+      "Roast for about 25 minutes.",
+      "Fold through spinach so it wilts, and finish with lemon."
+    ]
+  },
+  {
+    "title": "Tuna White Bean Salad",
+    "description": "A no-cook plate of tuna, beans, onion, and lemon.",
+    "prep_minutes": 15,
+    "cook_minutes": 0,
+    "servings": 2,
+    "diet_tags": ["pescatarian", "gluten-free", "dairy-free"],
+    "ingredients": [
+      {"name": "tuna", "quantity": 2, "unit": "can"},
+      {"name": "white beans", "quantity": 200, "unit": "g"},
+      {"name": "red onion", "quantity": 0.5, "unit": "piece"},
+      {"name": "lemon", "quantity": 1, "unit": "piece"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"},
+      {"name": "parsley", "quantity": 0.5, "unit": "bunch", "optional": true}
+    ],
+    "instructions": [
+      "Drain the tuna and beans.",
+      "Slice the onion thinly.",
+      "Toss everything with olive oil and lemon.",
+      "Add parsley if you have it."
+    ]
+  },
+  {
+    "title": "Spinach Cheddar Frittata",
+    "description": "Baked eggs with spinach, onion, and cheddar.",
+    "prep_minutes": 10,
+    "cook_minutes": 20,
+    "servings": 3,
+    "diet_tags": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      {"name": "eggs", "quantity": 6, "unit": "piece"},
+      {"name": "spinach", "quantity": 150, "unit": "g"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "cheddar", "quantity": 50, "unit": "g"},
+      {"name": "garlic", "quantity": 1, "unit": "clove"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Heat the oven to 190°C.",
+      "Soften the onion and garlic in an oven-safe pan, then wilt the spinach.",
+      "Pour in beaten eggs and scatter cheddar on top.",
+      "Bake for about 15 minutes until just set."
+    ]
+  },
+  {
+    "title": "Tomato Soup and Cheese Toast",
+    "description": "A simple tomato soup with cheddar toast on the side.",
+    "prep_minutes": 10,
+    "cook_minutes": 20,
+    "servings": 2,
+    "diet_tags": ["vegetarian"],
+    "ingredients": [
+      {"name": "canned tomatoes", "quantity": 400, "unit": "g"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "butter", "quantity": 20, "unit": "g"},
+      {"name": "milk", "quantity": 100, "unit": "ml"},
+      {"name": "bread", "quantity": 4, "unit": "slice"},
+      {"name": "cheddar", "quantity": 80, "unit": "g"}
+    ],
+    "instructions": [
+      "Cook onion and garlic in half the butter.",
+      "Add tomatoes and simmer 10 minutes. Stir in milk and blend if you like it smooth.",
+      "Toast the bread, butter it, and cover with cheddar.",
+      "Grill or broil until the cheese melts. Serve with the soup."
+    ]
+  },
+  {
+    "title": "Coconut Rice and Beans",
+    "description": "Rice cooked in coconut milk with black beans and cumin.",
+    "prep_minutes": 5,
+    "cook_minutes": 25,
+    "servings": 3,
+    "diet_tags": ["vegan", "vegetarian", "gluten-free", "dairy-free"],
+    "ingredients": [
+      {"name": "rice", "quantity": 200, "unit": "g"},
+      {"name": "black beans", "quantity": 200, "unit": "g"},
+      {"name": "coconut milk", "quantity": 200, "unit": "ml"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "cumin", "quantity": 1, "unit": "tsp"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": [
+      "Soften the onion and garlic in oil. Stir in cumin.",
+      "Add rice, coconut milk, and 200 ml water. Cover and cook until the rice is tender.",
+      "Fold in the black beans and heat through.",
+      "Rest, covered, for 5 minutes before serving."
+    ]
+  },
+  {
+    "title": "Lemon Garlic Chicken",
+    "description": "Pan chicken with lemon, garlic, rice, and spinach.",
+    "prep_minutes": 10,
+    "cook_minutes": 25,
+    "servings": 2,
+    "diet_tags": ["gluten-free", "dairy-free"],
+    "ingredients": [
+      {"name": "chicken breast", "quantity": 400, "unit": "g"},
+      {"name": "lemon", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 4, "unit": "clove"},
+      {"name": "olive oil", "quantity": 1, "unit": "tbsp"},
+      {"name": "rice", "quantity": 200, "unit": "g"},
+      {"name": "spinach", "quantity": 80, "unit": "g"}
+    ],
+    "instructions": [
+      "Start the rice.",
+      "Season the chicken and brown it in olive oil. Add garlic.",
+      "Squeeze over the lemon, add a splash of water, and cover until cooked through.",
+      "Wilt the spinach in the pan juices and serve with rice."
+    ]
+  },
+  {
+    "title": "Potato Leek Soup",
+    "description": "A quiet soup of potato, leek, and onion.",
+    "prep_minutes": 15,
+    "cook_minutes": 30,
+    "servings": 4,
+    "diet_tags": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      {"name": "potato", "quantity": 500, "unit": "g"},
+      {"name": "leek", "quantity": 2, "unit": "piece"},
+      {"name": "onion", "quantity": 1, "unit": "piece"},
+      {"name": "garlic", "quantity": 2, "unit": "clove"},
+      {"name": "butter", "quantity": 20, "unit": "g"},
+      {"name": "vegetable stock", "quantity": 700, "unit": "ml"}
+    ],
+    "instructions": [
+      "Slice the leeks and rinse them well.",
+      "Cook leek, onion, and garlic in butter until soft.",
+      "Add potato and stock. Simmer until the potato is tender.",
+      "Blend until smooth, or leave it chunky."
+    ]
+  },
+  {
+    "title": "Yogurt Berry Cups",
+    "description": "Breakfast or a light supper: yogurt, oats, and berries.",
+    "prep_minutes": 5,
+    "cook_minutes": 0,
+    "servings": 2,
+    "diet_tags": ["vegetarian"],
+    "ingredients": [
+      {"name": "yogurt", "quantity": 300, "unit": "g"},
+      {"name": "berries", "quantity": 150, "unit": "g"},
+      {"name": "honey", "quantity": 1, "unit": "tbsp"},
+      {"name": "banana", "quantity": 1, "unit": "piece", "optional": true},
+      {"name": "oats", "quantity": 40, "unit": "g", "optional": true}
+    ],
+    "instructions": [
+      "Spoon the yogurt into bowls.",
+      "Top with berries and a little honey.",
+      "Add banana or oats if you want more to eat."
+    ]
+  }
+]

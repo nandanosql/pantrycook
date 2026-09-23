@@ -5,7 +5,7 @@ Thanks for looking at the project. PantryCook is [Nandan Priyadarshi](https://gi
 ## Development
 
 1. Fork the repo and create a branch.
-2. Backend setup and tests are in the [README](README.md#local-development). From `backend/`:
+2. From `backend/`:
 
    ```bash
    python -m venv .venv
